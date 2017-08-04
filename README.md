@@ -1,6 +1,6 @@
 # The-feeling
 
-> vue + Vuetify + google cloud vision api with Progressive Web App
+> Vue + Vuetify + Google Cloud Vision With Progressive Web App
 
 ![alt tag](http://i.imgur.com/7y6NNJP.png)
 
